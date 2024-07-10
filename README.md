@@ -44,3 +44,4 @@ To start the Philosophers simulation, run the following command:
 This will simulate 5 philosophers with a time-to-die of 800ms, time-to-eat of 200ms, and time-to-sleep of 200ms.
 
 ## Contributors
+[pschemit](https://github.com/pschemit)
