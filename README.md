@@ -1,4 +1,5 @@
 # Philosophers
+![philo](https://github.com/user-attachments/assets/10349866-d8b2-4d29-bf85-e267104f356c)
 
 ## Description
 The Philosophers project simulates the classic dining philosophers problem using threads and mutexes. The goal is to manage the synchronization and lifecycle of multiple philosopher threads that compete for shared resources (forks) to eat and think.
